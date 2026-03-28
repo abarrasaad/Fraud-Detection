@@ -38,7 +38,7 @@ If you want to run the project locally, you can:
 
 Fraud-Detection/
 │
-├── fraud_detection.py                # Streamlit application
-├── fraud-detection.ipynb             # Data analysis and model training
-├── fraud_detection_pipeline.pkl      # Trained machine learning model 
-└── README.md                         # Project documentation
+├── fraud_detection.py            # Main Python script for the project
+├── fraud-detection.ipynb         # Notebook used for data analysis and model training
+├── fraud_detection_pipeline.pkl  # Saved trained model (pipeline)
+└── README.md                     # Project documentation
